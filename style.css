@@ -1,0 +1,26 @@
+body {
+    background: #eee;
+    font-family: sans-serif;
+  }
+
+.card {
+    width: 600px;
+    background: #fff;
+    margin: 12px auto;
+    padding: 8px;
+}
+  
+.header {
+    background-color: #eee;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    padding: 12px;
+    background-color: #eee;
+    margin: 10px;
+}
